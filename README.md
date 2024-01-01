@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is **mohammed jeshin**
+### Hi There 👋, My Name Is **MOHAMMED JESHIN**
 
     
 <img src='https://komarev.com/ghpvc/?username=jeshin12&color=green' align='right' style='border: solid green 10px'/>
