@@ -18,7 +18,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<
 
 <!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
 - 🔭 I’m currently working on [Our Dome](https://github.com/jeshin12/Ourdome.git) Online booking platform 
