@@ -18,7 +18,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 </p>
 
 
-<
+
 
 <!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
 - 🔭 I’m currently working on [Our Dome](https://github.com/jeshin12/Ourdome.git) Online booking platform 
@@ -30,10 +30,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 <span>&nbsp;</span>
 
-<div style="display: flex; justify-content: space-around;" align='center'>
-  
-  <img src="https://streak-stats.demolab.com?user=jeshin12&theme=gotham&border=25B368" alt="GitHub streak stats">
-</div>
+
 
 <span>&nbsp;</span>
 
